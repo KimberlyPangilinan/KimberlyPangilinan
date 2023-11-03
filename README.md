@@ -9,10 +9,7 @@
 ```javascript
 const kim = {
   current: ["Intern at Intelliseven", "Recommendation system for Capstone", "Project with my Partner"],
-  information: {
-    "pronoun": ["she", "her"],
-    "country": "Philippines"
-  },
+  quote: "We dance with bugs, debugging one at a time"
 };
 ```
 
