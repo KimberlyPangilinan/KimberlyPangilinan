@@ -6,11 +6,5 @@
 [![](https://visitcount.itsvg.in/api?id=kimberlypangilinan&icon=0&color=12)](https://visitcount.itsvg.in)
 [![GitHub KimberlyPangilinan](https://img.shields.io/github/followers/kimberlypangilinan?label=follow&style=social)](https://github.com/kimberlypangilinan)
 
-```javascript
-const kim = {
-  current: ["Intern at Intelliseven", "Recommendation system for Capstone", "Project with my Partner"],
-  quote: "We dance with bugs, debugging one at a time"
-};
-```
 
 
